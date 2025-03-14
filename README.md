@@ -1,2 +1,2 @@
 # CrX
-CrX is the Model derived from BrainX theory. it was similarity-finder between any information which leads to generation of novel outputs.
+CrX is a model derived from the BrainX theory. This theory explains how the brain may work by storing and retrieving information. In short, the model extracts the non-reducible (smallest truths) from the input source and finds similarity, then either predicts or generates novel outputs.
